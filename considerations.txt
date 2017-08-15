@@ -22,7 +22,7 @@ Assignment 5 consideration
 	to compliment the logo. It is also because it is easier to read the text when the word
 	count per line is not too high.
 	The navigation bar is mostly to get an overview on what can be found on the site.
-	It would be more relevant it the site had more content.
+	It would be more relevant if the site had more content.
 	I have tried to position the animations so the character seemed centered. The actual
 	dimensions of the gif files did not matter in the centering.
 	I chose to use a carousel to make the site more orderly. It signals that the content
