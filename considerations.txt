@@ -1,0 +1,30 @@
+Assignment 5 consideration
+---
+ - Colours
+	I have chosen the website to be in black and white to match the logo. Black and white
+	has high contrast and thus makes it easier to distinguish between the elements/text. 
+	I use deepskyblue nuances. I initially wanted to use cyan, but it did not stand
+	in high enough contrast against the white background. I chose this colour because
+	it is similar to the blue colour in the photomanipulation and animations.
+	The navigation bar underlines logo.
+	I use a grey box for the contact section. The darker colour gives stability to the
+	site by being a visual foundation. The grey box also marks that it is seperate from
+	the rest of the site and that the contact details belong together.
+ - Font
+	I use Verdana as the only font for the website. This is because Verdana has high
+	readability. The spacing is smaller for the logo text. This is to give it a more
+	massive look to match the large black circle in the logo. Large text does not need
+	an as high letter spacing as small text to be readable.
+	The navigation bars text has a higher spacing. This is to make it look less cramped.
+	I use different header sizes to aid catching the readers attention.
+ - Other
+	I decided to keep the site narrow. This is partly because I want the navigation bar
+	to compliment the logo. It is also because it is easier to read the text when the word
+	count per line is not too high.
+	The navigation bar is mostly to get an overview on what can be found on the site.
+	It would be more relevant it the site had more content.
+	I have tried to position the animations so the character seemed centered. The actual
+	dimensions of the gif files did not matter in the centering.
+	I chose to use a carousel to make the site more orderly. It signals that the content
+	belong together and lessen to problem with different height and width format of the
+	images and the audio player.
